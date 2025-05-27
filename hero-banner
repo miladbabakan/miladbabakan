@@ -83,7 +83,7 @@
                         <source srcset="hero-banner-md.png" media="(min-width: 500px)">
                         <img src="hero-banner-sm.png" alt="علی موسی خانی | علاقه مند به طراحی سایت و برنامه نویسی هستم"
                             class="w-100"> -->
-                        <img src="images/hero-banner.png" alt="میلاد بابکان | ورزشکار و مربی حرفه ای ">
+                        <img src="images/hero-banner2.png" alt="میلاد بابکان | ورزشکار و مربی حرفه ای ">
                     </picture>
                 </figure>
 
